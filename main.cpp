@@ -1,8 +1,4 @@
 #include <iostream>
-#include <coroutine>
-#include <chrono>
-#include <thread>
-
 #include "mycoro/task.h"
 #include "mycoro/awaiters.h"
 #include "mycoro/async.h"
